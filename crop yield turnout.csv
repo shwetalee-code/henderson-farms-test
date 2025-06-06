@@ -1,0 +1,106 @@
+﻿Field,Orchard Code,Sum of 2024 Turnout %,Sum of 2023 Turnout,Sum of 2022 Turn Out %
+,505 North,0.9146000000000001,0,0
+,505 SOUTH,0.9795,0,0
+,BALBOA,0.8090999999999999,0,0
+,BI-1,1.1955,0,0
+,BRS-250,0.9750000000000001,0,0
+,BRU-1A,0.1881,0,0
+,BYRD,0.8872,0,0
+,C&H 2,0.6125,0,0
+,C&H 3,0.908,0,0
+,DAF 1,1.3528,0,0
+,DAF 2,0.7484,0,0
+,GJ,0.7483,0,0
+,GL-Ranch,1.1339,0,0
+,GOLF,0.9410000000000001,0,0
+,GOLF-P,0.3626,0,0
+,GOODMAN,0.2765,0,0
+,JK,1.1028,0,0
+,KF,0.8876000000000001,0,0
+,MAZZ-HOME,0.6561,0,0
+,RCH,0.8349,0,0
+,REYES,0.2333,0,0
+,SP50,0.8739999999999999,0,0
+,TOP,0.9673,0,0
+,WFP,0.4384,0,0
+505 North, 505 NORTH,,0.5431,0
+505 South, 505 SOUTH,,1.0438,0
+505 South,505 SOUTH,,0,0.5247999999999999
+A1 (Home), MAZZ-HOME,,0.6489,0
+A1 (Home),MAZZ-HOME,,0,0.5777
+ALK, KF,,0.6549,0
+ALK,KF,,0,0.7041
+BALBOA EAST, Balboa East,,0.1819,0
+BALBOA WEST, Balboa West,,0.2472,0
+Breuner (2A), BRU-2A,,0.506,0
+Breuner (2A),BRU-2A,,0,0.7198
+Byrdcreek, BYRD,,0.9052,0
+Byrdcreek,BYRD,,0,0.8819
+C&H II, C & H 2 Block 2 & 3,,0.6647,0
+C&H II,C & H 2,,0,1.1339
+C&H III, C & H 3,,0.8681,0
+C&H III,C & H 3,,0,0.8523
+C&H IV (TOP), TOP,,0.8372,0
+C&H IV (TOP),TOP,,0,1.0368
+C&H IV (TOP2), Reyes,,0.2367,0
+C&H IV (TOP2),REYES,,0,0.1741
+Cortina Schl Farming, GOLF,,0.8255,0
+Cortina Schl Farming,GOLF,,0,0.8529000000000001
+"Cotter, William", MCA North,,0.7084,0
+"Cotter, William", MCA North and South,,0.2197,0
+"Cotter, William", MCA South,,0.42979999999999996,0
+"Cotter, William",MCA,,0,1.398
+DAF 1," DAF Block 1, 2 & 3",,0.7468,0
+DAF 1,DAF,,0,0.8369
+DAF 2, DAF 2,,0.6653,0
+DAF 2,DAF 2,,0,0.7113
+Dawley (WFP), WFP,,0.39470000000000005,0
+Dawley (WFP),WFP,,0,0.4272
+Dibble, DIBBLE,,0.272,0
+Dibble,DIBBLE,,0,0.2754
+Eddy Road, GL 9 acre block & GL EN40,,0.2495,0
+Eddy Road," GL 9 acre block, GL Non/Fritz block & GL WW South",,0.1826,0
+Eddy Road," GL 9 acre block, GL Non/Fritz block, GL Non/Butte block, GL EN40 & GL WW South",,0.1867,0
+Eddy Road,GL-Ranch,,0,0.7686
+Eddy Road/WWW, GL WW South,,0.2436,0
+Eddy Road/WWW,GL-Ranch,,0,0.2396
+ESP, ESP,,0.2662,0
+ESP,ESP,,0,0.2723
+G.J. ORCHARD, GJ,,0.6947,0
+G.J. ORCHARD,GJ,,0,0.7659
+GL Organic, GL-ORGANIC,,0.6779,0
+GOLF-P, GOLFP,,0.1198,0
+GOODMAN, GOOD,,0.1888,0
+Jane Watson, ENH,,0.7527999999999999,0
+Jane Watson,ENH,,0,0.7246
+JBW Orchard, JBW,,0.2442,0
+JBW Orchard,JBW,,0,0.2607
+JK,JK,,0,0.1835
+"JK/PAL (152,180)", JK,,0,0
+"JK/PAL (22,140)", JK,,0,0
+"JK/PAL (38,920)", JK,,0,0
+"JK/PAL (71,660)", JK,,0,0
+"JK-J&K Spooner (100,180)", JK,,0.2163,0
+"JK-J&K Spooner (100,780)",JK,,0,1.3246
+"JK-J&K Spooner (12,640)",JK,,0,0.1518
+"JK-J&K Spooner (19,140)", JK,,0.275,0
+"JK-J&K Spooner (19,160)",JK,,0,0.1615
+"JK-J&K Spooner (21,720)", JK,,0.2623,0
+"JK-J&K Spooner (42,240)", JK,,0.2654,0
+MATT, Matt Home,,0.2529,0
+Matt Cotter,MCA,,0,0.1939
+Running J Ranches, RJR,,0.2671,0
+Running J Ranches,RJR,,0,0.2904
+Santow,SANTOW,,0,0.2669
+Santow & RJR, SANTOW & RJR,,0.3072,0
+Skyhigh Ranch, BI-1,,1.0183,0
+Skyhigh Ranch,BI-1,,0,1.1562
+SP50, SP50 East,,0.4555,0
+SP50, SP50 East & West,,0.1851,0
+SP50, SP50 West,,0.1794,0
+SP50,SP50,,0,0.602
+STUCKER (BRS250), BRS 250 31 acre block & 71 acre block,,0.9344,0
+STUCKER (BRS250),BRS-250,,0,0.8755999999999999
+Wildwood, RCH,,0.5311,0
+Wildwood,RCH,,0,0.6862
+Zumwalt & Associates,ZUM,,0,0.9679

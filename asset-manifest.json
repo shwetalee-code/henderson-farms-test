@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/henderson-farms-test/static/js/main.d1f4542e.js",
+    "static/media/almond_farm.png": "/henderson-farms-test/static/media/almond_farm.e4e54710ead4ecc80a62.png",
+    "static/media/tree_bg.png": "/henderson-farms-test/static/media/tree_bg.46d404662bc7baca6330.png",
+    "index.html": "/henderson-farms-test/index.html",
+    "main.d1f4542e.js.map": "/henderson-farms-test/static/js/main.d1f4542e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d1f4542e.js"
+  ]
+}
