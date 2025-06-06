@@ -1,7 +1,7 @@
 {
   "name": "react-powerbi-ui",
   "version": "1.0.0",
-  "homepage": "https://shwetalee-code.github.io/henderson-farms",
+  "homepage": "https://shwetalee-code.github.io/henderson-farms-test",
   "private": true,
   "dependencies": {
     "papaparse": "^5.4.1",
