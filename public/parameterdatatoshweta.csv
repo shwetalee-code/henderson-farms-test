@@ -1,0 +1,521 @@
+﻿Year,Quarter,Month,Day,Field,Parameter,Average of Ideal,Sum of Current
+2024,Qtr 1,March,20,505 NORTH,Active Carbon,1000,263.24
+2024,Qtr 1,March,20,505 NORTH,Ammonium,40,0.45
+2024,Qtr 1,March,20,505 NORTH,Bicarbonates,60,272.24
+2024,Qtr 1,March,20,505 NORTH,EC,0.7,0.23
+2024,Qtr 1,March,20,505 NORTH,Est N from OM in lb,120,140.4
+2024,Qtr 1,March,20,505 NORTH,Nitrate,30,53.18
+2024,Qtr 1,March,20,505 NORTH,Organic Matter,7,5.0600000000000005
+2024,Qtr 1,March,20,505 NORTH,ORP,80,45
+2024,Qtr 1,March,20,505 NORTH,pH (1:1),6.2,13.29
+2024,Qtr 1,March,20,505 NORTH,Soluble Salts,0.64,0.15
+2024,Qtr 1,March,20,505 SOUTH,Active Carbon,1000,341.59000000000003
+2024,Qtr 1,March,20,505 SOUTH,Ammonium,40,0.19
+2024,Qtr 1,March,20,505 SOUTH,Bicarbonates,60,192.82999999999998
+2024,Qtr 1,March,20,505 SOUTH,EC,0.7,1.02
+2024,Qtr 1,March,20,505 SOUTH,Est N from OM in lb,120,152.4
+2024,Qtr 1,March,20,505 SOUTH,Nitrate,30,38.980000000000004
+2024,Qtr 1,March,20,505 SOUTH,Organic Matter,7,5.619999999999999
+2024,Qtr 1,March,20,505 SOUTH,ORP,80,97
+2024,Qtr 1,March,20,505 SOUTH,pH (1:1),6.2,12.32
+2024,Qtr 1,March,20,505 SOUTH,Soluble Salts,0.64,0.65
+2024,Qtr 1,March,20,BALBOA,Active Carbon,1000,634.6700000000001
+2024,Qtr 1,March,20,BALBOA,Ammonium,40,0.08
+2024,Qtr 1,March,20,BALBOA,Bicarbonates,60,468.92
+2024,Qtr 1,March,20,BALBOA,EC,0.7,0.78
+2024,Qtr 1,March,20,BALBOA,Est N from OM in lb,120,299.2
+2024,Qtr 1,March,20,BALBOA,Nitrate,30,223.98000000000002
+2024,Qtr 1,March,20,BALBOA,Organic Matter,7,10.96
+2024,Qtr 1,March,20,BALBOA,ORP,80,-82
+2024,Qtr 1,March,20,BALBOA,pH (1:1),6.2,29.85
+2024,Qtr 1,March,20,BALBOA,Soluble Salts,0.64,0.5
+2024,Qtr 1,March,20,BI,Active Carbon,1000,580.89
+2024,Qtr 1,March,20,BI,Ammonium,40,2.63
+2024,Qtr 1,March,20,BI,Bicarbonates,60,626.35
+2024,Qtr 1,March,20,BI,EC,0.7,0.24
+2024,Qtr 1,March,20,BI,Est N from OM in lb,120,304
+2024,Qtr 1,March,20,BI,Nitrate,30,38.510000000000005
+2024,Qtr 1,March,20,BI,Organic Matter,7,11.94
+2024,Qtr 1,March,20,BI,ORP,80,102
+2024,Qtr 1,March,20,BI,pH (1:1),6.2,26.84
+2024,Qtr 1,March,20,BI,Soluble Salts,0.64,0.16
+2024,Qtr 1,March,20,BRS-250,Active Carbon,1000,402.39
+2024,Qtr 1,March,20,BRS-250,Ammonium,40,0.25
+2024,Qtr 1,March,20,BRS-250,Bicarbonates,60,258.71999999999997
+2024,Qtr 1,March,20,BRS-250,EC,0.7,0.28
+2024,Qtr 1,March,20,BRS-250,Est N from OM in lb,120,79.6
+2024,Qtr 1,March,20,BRS-250,Nitrate,30,37.36
+2024,Qtr 1,March,20,BRS-250,Organic Matter,7,2.98
+2024,Qtr 1,March,20,BRS-250,ORP,80,-1
+2024,Qtr 1,March,20,BRS-250,pH (1:1),6.2,14.26
+2024,Qtr 1,March,20,BRS-250,Soluble Salts,0.64,0.18000000000000002
+2024,Qtr 1,March,20,BRU-1A,Active Carbon,1000,209.2
+2024,Qtr 1,March,20,BRU-1A,Ammonium,40,1.84
+2024,Qtr 1,March,20,BRU-1A,Bicarbonates,60,358.52
+2024,Qtr 1,March,20,BRU-1A,EC,0.7,0.25
+2024,Qtr 1,March,20,BRU-1A,Est N from OM in lb,120,108
+2024,Qtr 1,March,20,BRU-1A,Nitrate,30,68.77
+2024,Qtr 1,March,20,BRU-1A,Organic Matter,7,3.4
+2024,Qtr 1,March,20,BRU-1A,ORP,80,97
+2024,Qtr 1,March,20,BRU-1A,pH (1:1),6.2,12.629999999999999
+2024,Qtr 1,March,20,BRU-1A,Soluble Salts,0.64,0.16
+2024,Qtr 1,March,20,BYRD,Active Carbon,1000,323.44
+2024,Qtr 1,March,20,BYRD,Ammonium,40,1.4100000000000001
+2024,Qtr 1,March,20,BYRD,Bicarbonates,60,230.93
+2024,Qtr 1,March,20,BYRD,EC,0.7,0.37
+2024,Qtr 1,March,20,BYRD,Est N from OM in lb,120,170
+2024,Qtr 1,March,20,BYRD,Nitrate,30,27.12
+2024,Qtr 1,March,20,BYRD,Organic Matter,7,7
+2024,Qtr 1,March,20,BYRD,ORP,80,6
+2024,Qtr 1,March,20,BYRD,pH (1:1),6.2,14.03
+2024,Qtr 1,March,20,BYRD,Soluble Salts,0.64,0.23
+2024,Qtr 1,March,20,C&H2,Active Carbon,1000,165.11
+2024,Qtr 1,March,20,C&H2,Ammonium,40,0.65
+2024,Qtr 1,March,20,C&H2,Bicarbonates,60,452.26
+2024,Qtr 1,March,20,C&H2,EC,0.7,0.060000000000000005
+2024,Qtr 1,March,20,C&H2,Est N from OM in lb,120,94.4
+2024,Qtr 1,March,20,C&H2,Nitrate,30,7.86
+2024,Qtr 1,March,20,C&H2,Organic Matter,7,2.7199999999999998
+2024,Qtr 1,March,20,C&H2,ORP,80,14
+2024,Qtr 1,March,20,C&H2,pH (1:1),6.2,13.89
+2024,Qtr 1,March,20,C&H2,Soluble Salts,0.64,0.04
+2024,Qtr 1,March,20,C&H3,Active Carbon,1000,334.18
+2024,Qtr 1,March,20,C&H3,Ammonium,40,0.02
+2024,Qtr 1,March,20,C&H3,Bicarbonates,60,192.32
+2024,Qtr 1,March,20,C&H3,EC,0.7,0.27
+2024,Qtr 1,March,20,C&H3,Est N from OM in lb,120,162.60000000000002
+2024,Qtr 1,March,20,C&H3,Nitrate,30,148.33
+2024,Qtr 1,March,20,C&H3,Organic Matter,7,6.3
+2024,Qtr 1,March,20,C&H3,ORP,80,9
+2024,Qtr 1,March,20,C&H3,pH (1:1),6.2,14.129999999999999
+2024,Qtr 1,March,20,C&H3,Soluble Salts,0.64,0.17
+2024,Qtr 1,March,20,DAF,Active Carbon,1000,1038.6
+2024,Qtr 1,March,20,DAF,Ammonium,40,4.3999999999999995
+2024,Qtr 1,March,20,DAF,Bicarbonates,60,1150.59
+2024,Qtr 1,March,20,DAF,EC,0.7000000000000001,0.8200000000000001
+2024,Qtr 1,March,20,DAF,Est N from OM in lb,120,530.8
+2024,Qtr 1,March,20,DAF,Nitrate,30,36.52
+2024,Qtr 1,March,20,DAF,Organic Matter,7,19.04
+2024,Qtr 1,March,20,DAF,ORP,80,108
+2024,Qtr 1,March,20,DAF,pH (1:1),6.200000000000001,54.92
+2024,Qtr 1,March,20,DAF,Soluble Salts,0.64,0.51
+2024,Qtr 1,March,20,DAF 2,Active Carbon,1000,329.86
+2024,Qtr 1,March,20,DAF 2,Ammonium,40,2.8800000000000003
+2024,Qtr 1,March,20,DAF 2,Bicarbonates,60,370.31
+2024,Qtr 1,March,20,DAF 2,EC,0.7,0.26
+2024,Qtr 1,March,20,DAF 2,Est N from OM in lb,120,129.6
+2024,Qtr 1,March,20,DAF 2,Nitrate,30,8.78
+2024,Qtr 1,March,20,DAF 2,Organic Matter,7,4.48
+2024,Qtr 1,March,20,DAF 2,ORP,80,39
+2024,Qtr 1,March,20,DAF 2,pH (1:1),6.2,13.35
+2024,Qtr 1,March,20,DAF 2,Soluble Salts,0.64,0.16
+2024,Qtr 1,March,20,GJ,Active Carbon,1000,316.86
+2024,Qtr 1,March,20,GJ,Ammonium,40,2.96
+2024,Qtr 1,March,20,GJ,Bicarbonates,60,383.78
+2024,Qtr 1,March,20,GJ,EC,0.7,0.11
+2024,Qtr 1,March,20,GJ,Est N from OM in lb,120,147.2
+2024,Qtr 1,March,20,GJ,Nitrate,30,23.16
+2024,Qtr 1,March,20,GJ,Organic Matter,7,5.54
+2024,Qtr 1,March,20,GJ,ORP,80,40
+2024,Qtr 1,March,20,GJ,pH (1:1),6.2,13.28
+2024,Qtr 1,March,20,GJ,Soluble Salts,0.64,0.06999999999999999
+2024,Qtr 1,March,20,GL ORGANIC,Active Carbon,1000,129.93
+2024,Qtr 1,March,20,GL ORGANIC,Ammonium,40,1.57
+2024,Qtr 1,March,20,GL ORGANIC,Bicarbonates,60,171.19
+2024,Qtr 1,March,20,GL ORGANIC,EC,0.7,0.02
+2024,Qtr 1,March,20,GL ORGANIC,Est N from OM in lb,120,62.4
+2024,Qtr 1,March,20,GL ORGANIC,Nitrate,30,2.42
+2024,Qtr 1,March,20,GL ORGANIC,Organic Matter,7,2.12
+2024,Qtr 1,March,20,GL ORGANIC,ORP,80,-8
+2024,Qtr 1,March,20,GL ORGANIC,pH (1:1),6.2,6.81
+2024,Qtr 1,March,20,GL ORGANIC,Soluble Salts,0.64,0.01
+2024,Qtr 1,March,20,GL RANCH,Active Carbon,1000,804.61
+2024,Qtr 1,March,20,GL RANCH,Ammonium,40,5.55
+2024,Qtr 1,March,20,GL RANCH,Bicarbonates,60,979.51
+2024,Qtr 1,March,20,GL RANCH,EC,0.7,1.02
+2024,Qtr 1,March,20,GL RANCH,Est N from OM in lb,120,353
+2024,Qtr 1,March,20,GL RANCH,Nitrate,30,108.85999999999999
+2024,Qtr 1,March,20,GL RANCH,Organic Matter,7,13.32
+2024,Qtr 1,March,20,GL RANCH,ORP,80,90
+2024,Qtr 1,March,20,GL RANCH,pH (1:1),6.2,34.39
+2024,Qtr 1,March,20,GL RANCH,Soluble Salts,0.64,0.6500000000000001
+2024,Qtr 1,March,20,GOLF,Active Carbon,1000,260.33
+2024,Qtr 1,March,20,GOLF,Ammonium,40,3.84
+2024,Qtr 1,March,20,GOLF,Bicarbonates,60,370.49
+2024,Qtr 1,March,20,GOLF,EC,0.7,0.23
+2024,Qtr 1,March,20,GOLF,Est N from OM in lb,120,148
+2024,Qtr 1,March,20,GOLF,Nitrate,30,3.63
+2024,Qtr 1,March,20,GOLF,Organic Matter,7,5.4
+2024,Qtr 1,March,20,GOLF,ORP,80,52
+2024,Qtr 1,March,20,GOLF,pH (1:1),6.2,13.19
+2024,Qtr 1,March,20,GOLF,Soluble Salts,0.64,0.15
+2024,Qtr 1,March,20,GOLF P,Active Carbon,1000,330.31
+2024,Qtr 1,March,20,GOLF P,Ammonium,40,1.5
+2024,Qtr 1,March,20,GOLF P,Bicarbonates,60,365.46000000000004
+2024,Qtr 1,March,20,GOLF P,EC,0.7,0.32
+2024,Qtr 1,March,20,GOLF P,Est N from OM in lb,120,183.60000000000002
+2024,Qtr 1,March,20,GOLF P,Nitrate,30,12.450000000000001
+2024,Qtr 1,March,20,GOLF P,Organic Matter,7,8.36
+2024,Qtr 1,March,20,GOLF P,ORP,80,42
+2024,Qtr 1,March,20,GOLF P,pH (1:1),6.2,13.44
+2024,Qtr 1,March,20,GOLF P,Soluble Salts,0.64,0.2
+2024,Qtr 1,March,20,GOODMAN,Active Carbon,1000,318.51
+2024,Qtr 1,March,20,GOODMAN,Ammonium,40,0
+2024,Qtr 1,March,20,GOODMAN,Bicarbonates,60,239.72
+2024,Qtr 1,March,20,GOODMAN,EC,0.7,0.37
+2024,Qtr 1,March,20,GOODMAN,Est N from OM in lb,120,177.8
+2024,Qtr 1,March,20,GOODMAN,Nitrate,30,29.33
+2024,Qtr 1,March,20,GOODMAN,Organic Matter,7,7.779999999999999
+2024,Qtr 1,March,20,GOODMAN,ORP,80,-44
+2024,Qtr 1,March,20,GOODMAN,pH (1:1),6.2,15.129999999999999
+2024,Qtr 1,March,20,GOODMAN,Soluble Salts,0.64,0.24
+2024,Qtr 1,March,20,JK,Active Carbon,1000,399.46999999999997
+2024,Qtr 1,March,20,JK,Ammonium,40,2.12
+2024,Qtr 1,March,20,JK,Bicarbonates,60,373.08
+2024,Qtr 1,March,20,JK,EC,0.6999999999999998,0.25
+2024,Qtr 1,March,20,JK,Est N from OM in lb,120,184.39999999999998
+2024,Qtr 1,March,20,JK,Nitrate,30,36.99
+2024,Qtr 1,March,20,JK,Organic Matter,7,6.22
+2024,Qtr 1,March,20,JK,ORP,80,16
+2024,Qtr 1,March,20,JK,pH (1:1),6.2,20.75
+2024,Qtr 1,March,20,JK,Soluble Salts,0.64,0.16
+2024,Qtr 1,March,20,KF,Active Carbon,1000,240.04
+2024,Qtr 1,March,20,KF,Ammonium,40,1.19
+2024,Qtr 1,March,20,KF,Bicarbonates,60,350.18
+2024,Qtr 1,March,20,KF,EC,0.7,0.6
+2024,Qtr 1,March,20,KF,Est N from OM in lb,120,198.39999999999998
+2024,Qtr 1,March,20,KF,Nitrate,30,107.85
+2024,Qtr 1,March,20,KF,Organic Matter,7,10.12
+2024,Qtr 1,March,20,KF,ORP,80,13
+2024,Qtr 1,March,20,KF,pH (1:1),6.2,13.9
+2024,Qtr 1,March,20,KF,Soluble Salts,0.64,0.38
+2024,Qtr 1,March,20,MAZZ-HOME,Active Carbon,1000,262.5
+2024,Qtr 1,March,20,MAZZ-HOME,Ammonium,40,0
+2024,Qtr 1,March,20,MAZZ-HOME,Bicarbonates,60,170.74
+2024,Qtr 1,March,20,MAZZ-HOME,EC,0.7,0.29000000000000004
+2024,Qtr 1,March,20,MAZZ-HOME,Est N from OM in lb,120,141.2
+2024,Qtr 1,March,20,MAZZ-HOME,Nitrate,30,42.15
+2024,Qtr 1,March,20,MAZZ-HOME,Organic Matter,7,5.0600000000000005
+2024,Qtr 1,March,20,MAZZ-HOME,ORP,80,-1
+2024,Qtr 1,March,20,MAZZ-HOME,pH (1:1),6.2,14.46
+2024,Qtr 1,March,20,MAZZ-HOME,Soluble Salts,0.64,0.18000000000000002
+2024,Qtr 1,March,20,RCH,Active Carbon,1000,289.27
+2024,Qtr 1,March,20,RCH,Ammonium,40,1.8599999999999999
+2024,Qtr 1,March,20,RCH,Bicarbonates,60,250.02
+2024,Qtr 1,March,20,RCH,EC,0.7,0.09000000000000001
+2024,Qtr 1,March,20,RCH,Est N from OM in lb,120,137.2
+2024,Qtr 1,March,20,RCH,Nitrate,30,0
+2024,Qtr 1,March,20,RCH,Organic Matter,7,4.86
+2024,Qtr 1,March,20,RCH,ORP,80,118
+2024,Qtr 1,March,20,RCH,pH (1:1),6.2,11.94
+2024,Qtr 1,March,20,RCH,Soluble Salts,0.64,0.05
+2024,Qtr 1,March,20,REYES,Active Carbon,1000,234.92000000000002
+2024,Qtr 1,March,20,REYES,Ammonium,40,0.05
+2024,Qtr 1,March,20,REYES,Bicarbonates,60,400
+2024,Qtr 1,March,20,REYES,EC,0.7,0.22999999999999998
+2024,Qtr 1,March,20,REYES,Est N from OM in lb,120,123.60000000000001
+2024,Qtr 1,March,20,REYES,Nitrate,30,19.19
+2024,Qtr 1,March,20,REYES,Organic Matter,7,4.18
+2024,Qtr 1,March,20,REYES,ORP,80,-65
+2024,Qtr 1,March,20,REYES,pH (1:1),6.2,15.379999999999999
+2024,Qtr 1,March,20,REYES,Soluble Salts,0.64,0.14
+2024,Qtr 1,March,20,SP 50,Active Carbon,1000,423.22
+2024,Qtr 1,March,20,SP 50,Ammonium,40,1.6500000000000001
+2024,Qtr 1,March,20,SP 50,Bicarbonates,60,314.27
+2024,Qtr 1,March,20,SP 50,EC,0.7,0.36000000000000004
+2024,Qtr 1,March,20,SP 50,Est N from OM in lb,120,192
+2024,Qtr 1,March,20,SP 50,Nitrate,30,27.45
+2024,Qtr 1,March,20,SP 50,Organic Matter,7,9.4
+2024,Qtr 1,March,20,SP 50,ORP,80,36
+2024,Qtr 1,March,20,SP 50,pH (1:1),6.2,13.58
+2024,Qtr 1,March,20,SP 50,Soluble Salts,0.64,0.23
+2024,Qtr 1,March,20,TERK,Active Carbon,1000,692.8000000000001
+2024,Qtr 1,March,20,TERK,Ammonium,40,2.43
+2024,Qtr 1,March,20,TERK,Bicarbonates,60,842.13
+2024,Qtr 1,March,20,TERK,EC,0.7,0.74
+2024,Qtr 1,March,20,TERK,Est N from OM in lb,120,364.8
+2024,Qtr 1,March,20,TERK,Nitrate,30,23.39
+2024,Qtr 1,March,20,TERK,Organic Matter,7,17.28
+2024,Qtr 1,March,20,TERK,ORP,80,8
+2024,Qtr 1,March,20,TERK,pH (1:1),6.2,28.19
+2024,Qtr 1,March,20,TERK,Soluble Salts,0.64,0.47000000000000003
+2024,Qtr 1,March,20,TOP,Active Carbon,1000,249.87
+2024,Qtr 1,March,20,TOP,Ammonium,40,0.2
+2024,Qtr 1,March,20,TOP,Bicarbonates,60,211.52
+2024,Qtr 1,March,20,TOP,EC,0.7,0.30000000000000004
+2024,Qtr 1,March,20,TOP,Est N from OM in lb,120,183.4
+2024,Qtr 1,March,20,TOP,Nitrate,30,414.87
+2024,Qtr 1,March,20,TOP,Organic Matter,7,8.34
+2024,Qtr 1,March,20,TOP,ORP,80,-43
+2024,Qtr 1,March,20,TOP,pH (1:1),6.2,14.809999999999999
+2024,Qtr 1,March,20,TOP,Soluble Salts,0.64,0.19
+2024,Qtr 1,March,20,WFP,Active Carbon,1000,315.93
+2024,Qtr 1,March,20,WFP,Ammonium,40,0.97
+2024,Qtr 1,March,20,WFP,Bicarbonates,60,230.47000000000003
+2024,Qtr 1,March,20,WFP,EC,0.7,0.09000000000000001
+2024,Qtr 1,March,20,WFP,Est N from OM in lb,120,131.2
+2024,Qtr 1,March,20,WFP,Nitrate,30,55.19
+2024,Qtr 1,March,20,WFP,Organic Matter,7,4.56
+2024,Qtr 1,March,20,WFP,ORP,80,31
+2024,Qtr 1,March,20,WFP,pH (1:1),6.2,13.379999999999999
+2024,Qtr 1,March,20,WFP,Soluble Salts,0.64,0.05
+2024,Qtr 4,October,7,BI,Active Carbon,1000,580.89
+2024,Qtr 4,October,7,BI,Ammonium,40,2.63
+2024,Qtr 4,October,7,BI,Bicarbonates,60,626.35
+2024,Qtr 4,October,7,BI,EC,0.7,0.24
+2024,Qtr 4,October,7,BI,Est N from OM in lb,120,304
+2024,Qtr 4,October,7,BI,Nitrate,30,38.510000000000005
+2024,Qtr 4,October,7,BI,Organic Matter,7,11.94
+2024,Qtr 4,October,7,BI,ORP,80,102
+2024,Qtr 4,October,7,BI,pH (1:1),6.2,26.84
+2024,Qtr 4,October,7,BI,Soluble Salts,0.64,0.16
+2024,Qtr 4,October,7,BRU-1A,Active Carbon,1000,209.2
+2024,Qtr 4,October,7,BRU-1A,Ammonium,40,1.84
+2024,Qtr 4,October,7,BRU-1A,Bicarbonates,60,358.52
+2024,Qtr 4,October,7,BRU-1A,EC,0.7,0.25
+2024,Qtr 4,October,7,BRU-1A,Est N from OM in lb,120,108
+2024,Qtr 4,October,7,BRU-1A,Nitrate,30,68.77
+2024,Qtr 4,October,7,BRU-1A,Organic Matter,7,3.4
+2024,Qtr 4,October,7,BRU-1A,ORP,80,97
+2024,Qtr 4,October,7,BRU-1A,pH (1:1),6.2,12.629999999999999
+2024,Qtr 4,October,7,BRU-1A,Soluble Salts,0.64,0.16
+2024,Qtr 4,October,7,C&H2,Active Carbon,1000,165.11
+2024,Qtr 4,October,7,C&H2,Ammonium,40,0.65
+2024,Qtr 4,October,7,C&H2,Bicarbonates,60,452.26
+2024,Qtr 4,October,7,C&H2,EC,0.7,0.060000000000000005
+2024,Qtr 4,October,7,C&H2,Est N from OM in lb,120,94.4
+2024,Qtr 4,October,7,C&H2,Nitrate,30,7.86
+2024,Qtr 4,October,7,C&H2,Organic Matter,7,2.7199999999999998
+2024,Qtr 4,October,7,C&H2,ORP,80,14
+2024,Qtr 4,October,7,C&H2,pH (1:1),6.2,13.89
+2024,Qtr 4,October,7,C&H2,Soluble Salts,0.64,0.04
+2024,Qtr 4,October,7,DAF,Active Carbon,1000,1038.6
+2024,Qtr 4,October,7,DAF,Ammonium,40,4.3999999999999995
+2024,Qtr 4,October,7,DAF,Bicarbonates,60,1150.59
+2024,Qtr 4,October,7,DAF,EC,0.7000000000000001,0.8200000000000001
+2024,Qtr 4,October,7,DAF,Est N from OM in lb,120,530.8
+2024,Qtr 4,October,7,DAF,Nitrate,30,36.52
+2024,Qtr 4,October,7,DAF,Organic Matter,7,19.04
+2024,Qtr 4,October,7,DAF,ORP,80,108
+2024,Qtr 4,October,7,DAF,pH (1:1),6.200000000000001,54.92
+2024,Qtr 4,October,7,DAF,Soluble Salts,0.64,0.51
+2024,Qtr 4,October,7,DAF 2,Active Carbon,1000,329.86
+2024,Qtr 4,October,7,DAF 2,Ammonium,40,2.8800000000000003
+2024,Qtr 4,October,7,DAF 2,Bicarbonates,60,370.31
+2024,Qtr 4,October,7,DAF 2,EC,0.7,0.26
+2024,Qtr 4,October,7,DAF 2,Est N from OM in lb,120,129.6
+2024,Qtr 4,October,7,DAF 2,Nitrate,30,8.78
+2024,Qtr 4,October,7,DAF 2,Organic Matter,7,4.48
+2024,Qtr 4,October,7,DAF 2,ORP,80,39
+2024,Qtr 4,October,7,DAF 2,pH (1:1),6.2,13.35
+2024,Qtr 4,October,7,DAF 2,Soluble Salts,0.64,0.16
+2024,Qtr 4,October,7,GJ,Active Carbon,1000,316.86
+2024,Qtr 4,October,7,GJ,Ammonium,40,2.96
+2024,Qtr 4,October,7,GJ,Bicarbonates,60,383.78
+2024,Qtr 4,October,7,GJ,EC,0.7,0.11
+2024,Qtr 4,October,7,GJ,Est N from OM in lb,120,147.2
+2024,Qtr 4,October,7,GJ,Nitrate,30,23.16
+2024,Qtr 4,October,7,GJ,Organic Matter,7,5.54
+2024,Qtr 4,October,7,GJ,ORP,80,40
+2024,Qtr 4,October,7,GJ,pH (1:1),6.2,13.28
+2024,Qtr 4,October,7,GJ,Soluble Salts,0.64,0.06999999999999999
+2024,Qtr 4,October,7,GL RANCH,Active Carbon,1000,804.61
+2024,Qtr 4,October,7,GL RANCH,Ammonium,40,5.55
+2024,Qtr 4,October,7,GL RANCH,Bicarbonates,60,979.51
+2024,Qtr 4,October,7,GL RANCH,EC,0.7,1.02
+2024,Qtr 4,October,7,GL RANCH,Est N from OM in lb,120,353
+2024,Qtr 4,October,7,GL RANCH,Nitrate,30,108.85999999999999
+2024,Qtr 4,October,7,GL RANCH,Organic Matter,7,13.32
+2024,Qtr 4,October,7,GL RANCH,ORP,80,90
+2024,Qtr 4,October,7,GL RANCH,pH (1:1),6.2,34.39
+2024,Qtr 4,October,7,GL RANCH,Soluble Salts,0.64,0.6500000000000001
+2024,Qtr 4,October,7,GOLF,Active Carbon,1000,260.33
+2024,Qtr 4,October,7,GOLF,Ammonium,40,3.84
+2024,Qtr 4,October,7,GOLF,Bicarbonates,60,370.49
+2024,Qtr 4,October,7,GOLF,EC,0.7,0.23
+2024,Qtr 4,October,7,GOLF,Est N from OM in lb,120,148
+2024,Qtr 4,October,7,GOLF,Nitrate,30,3.63
+2024,Qtr 4,October,7,GOLF,Organic Matter,7,5.4
+2024,Qtr 4,October,7,GOLF,ORP,80,52
+2024,Qtr 4,October,7,GOLF,pH (1:1),6.2,13.19
+2024,Qtr 4,October,7,GOLF,Soluble Salts,0.64,0.15
+2024,Qtr 4,October,7,GOLF P,Active Carbon,1000,330.31
+2024,Qtr 4,October,7,GOLF P,Ammonium,40,1.5
+2024,Qtr 4,October,7,GOLF P,Bicarbonates,60,365.46000000000004
+2024,Qtr 4,October,7,GOLF P,EC,0.7,0.32
+2024,Qtr 4,October,7,GOLF P,Est N from OM in lb,120,183.60000000000002
+2024,Qtr 4,October,7,GOLF P,Nitrate,30,12.450000000000001
+2024,Qtr 4,October,7,GOLF P,Organic Matter,7,8.36
+2024,Qtr 4,October,7,GOLF P,ORP,80,42
+2024,Qtr 4,October,7,GOLF P,pH (1:1),6.2,13.44
+2024,Qtr 4,October,7,GOLF P,Soluble Salts,0.64,0.2
+2024,Qtr 4,October,7,KF,Active Carbon,1000,240.04
+2024,Qtr 4,October,7,KF,Ammonium,40,1.19
+2024,Qtr 4,October,7,KF,Bicarbonates,60,350.18
+2024,Qtr 4,October,7,KF,EC,0.7,0.6
+2024,Qtr 4,October,7,KF,Est N from OM in lb,120,198.39999999999998
+2024,Qtr 4,October,7,KF,Nitrate,30,107.85
+2024,Qtr 4,October,7,KF,Organic Matter,7,10.12
+2024,Qtr 4,October,7,KF,ORP,80,13
+2024,Qtr 4,October,7,KF,pH (1:1),6.2,13.9
+2024,Qtr 4,October,7,KF,Soluble Salts,0.64,0.38
+2024,Qtr 4,October,7,RCH,Active Carbon,1000,289.27
+2024,Qtr 4,October,7,RCH,Ammonium,40,1.8599999999999999
+2024,Qtr 4,October,7,RCH,Bicarbonates,60,250.02
+2024,Qtr 4,October,7,RCH,EC,0.7,0.09000000000000001
+2024,Qtr 4,October,7,RCH,Est N from OM in lb,120,137.2
+2024,Qtr 4,October,7,RCH,Nitrate,30,0
+2024,Qtr 4,October,7,RCH,Organic Matter,7,4.86
+2024,Qtr 4,October,7,RCH,ORP,80,118
+2024,Qtr 4,October,7,RCH,pH (1:1),6.2,11.94
+2024,Qtr 4,October,7,RCH,Soluble Salts,0.64,0.05
+2024,Qtr 4,October,7,SP 50,Active Carbon,1000,423.22
+2024,Qtr 4,October,7,SP 50,Ammonium,40,1.6500000000000001
+2024,Qtr 4,October,7,SP 50,Bicarbonates,60,314.27
+2024,Qtr 4,October,7,SP 50,EC,0.7,0.36000000000000004
+2024,Qtr 4,October,7,SP 50,Est N from OM in lb,120,192
+2024,Qtr 4,October,7,SP 50,Nitrate,30,27.45
+2024,Qtr 4,October,7,SP 50,Organic Matter,7,9.4
+2024,Qtr 4,October,7,SP 50,ORP,80,36
+2024,Qtr 4,October,7,SP 50,pH (1:1),6.2,13.58
+2024,Qtr 4,October,7,SP 50,Soluble Salts,0.64,0.23
+2024,Qtr 4,October,7,TERK,Active Carbon,1000,692.8000000000001
+2024,Qtr 4,October,7,TERK,Ammonium,40,2.43
+2024,Qtr 4,October,7,TERK,Bicarbonates,60,842.13
+2024,Qtr 4,October,7,TERK,EC,0.7,0.74
+2024,Qtr 4,October,7,TERK,Est N from OM in lb,120,364.8
+2024,Qtr 4,October,7,TERK,Nitrate,30,23.39
+2024,Qtr 4,October,7,TERK,Organic Matter,7,17.28
+2024,Qtr 4,October,7,TERK,ORP,80,8
+2024,Qtr 4,October,7,TERK,pH (1:1),6.2,28.19
+2024,Qtr 4,October,7,TERK,Soluble Salts,0.64,0.47000000000000003
+2024,Qtr 4,October,24,505 NORTH,Active Carbon,1000,263.24
+2024,Qtr 4,October,24,505 NORTH,Ammonium,40,0.45
+2024,Qtr 4,October,24,505 NORTH,Bicarbonates,60,272.24
+2024,Qtr 4,October,24,505 NORTH,EC,0.7,0.23
+2024,Qtr 4,October,24,505 NORTH,Est N from OM in lb,120,140.4
+2024,Qtr 4,October,24,505 NORTH,Nitrate,30,53.18
+2024,Qtr 4,October,24,505 NORTH,Organic Matter,7,5.0600000000000005
+2024,Qtr 4,October,24,505 NORTH,ORP,80,45
+2024,Qtr 4,October,24,505 NORTH,pH (1:1),6.2,13.29
+2024,Qtr 4,October,24,505 NORTH,Soluble Salts,0.64,0.15
+2024,Qtr 4,October,24,505 SOUTH,Active Carbon,1000,341.59000000000003
+2024,Qtr 4,October,24,505 SOUTH,Ammonium,40,0.19
+2024,Qtr 4,October,24,505 SOUTH,Bicarbonates,60,192.82999999999998
+2024,Qtr 4,October,24,505 SOUTH,EC,0.7,1.02
+2024,Qtr 4,October,24,505 SOUTH,Est N from OM in lb,120,152.4
+2024,Qtr 4,October,24,505 SOUTH,Nitrate,30,38.980000000000004
+2024,Qtr 4,October,24,505 SOUTH,Organic Matter,7,5.619999999999999
+2024,Qtr 4,October,24,505 SOUTH,ORP,80,97
+2024,Qtr 4,October,24,505 SOUTH,pH (1:1),6.2,12.32
+2024,Qtr 4,October,24,505 SOUTH,Soluble Salts,0.64,0.65
+2024,Qtr 4,October,24,BALBOA,Active Carbon,1000,634.6700000000001
+2024,Qtr 4,October,24,BALBOA,Ammonium,40,0.08
+2024,Qtr 4,October,24,BALBOA,Bicarbonates,60,468.92
+2024,Qtr 4,October,24,BALBOA,EC,0.7,0.78
+2024,Qtr 4,October,24,BALBOA,Est N from OM in lb,120,299.2
+2024,Qtr 4,October,24,BALBOA,Nitrate,30,223.98000000000002
+2024,Qtr 4,October,24,BALBOA,Organic Matter,7,10.96
+2024,Qtr 4,October,24,BALBOA,ORP,80,-82
+2024,Qtr 4,October,24,BALBOA,pH (1:1),6.2,29.85
+2024,Qtr 4,October,24,BALBOA,Soluble Salts,0.64,0.5
+2024,Qtr 4,October,24,BRS-250,Active Carbon,1000,402.39
+2024,Qtr 4,October,24,BRS-250,Ammonium,40,0.25
+2024,Qtr 4,October,24,BRS-250,Bicarbonates,60,258.71999999999997
+2024,Qtr 4,October,24,BRS-250,EC,0.7,0.28
+2024,Qtr 4,October,24,BRS-250,Est N from OM in lb,120,79.6
+2024,Qtr 4,October,24,BRS-250,Nitrate,30,37.36
+2024,Qtr 4,October,24,BRS-250,Organic Matter,7,2.98
+2024,Qtr 4,October,24,BRS-250,ORP,80,-1
+2024,Qtr 4,October,24,BRS-250,pH (1:1),6.2,14.26
+2024,Qtr 4,October,24,BRS-250,Soluble Salts,0.64,0.18000000000000002
+2024,Qtr 4,October,24,BYRD,Active Carbon,1000,323.44
+2024,Qtr 4,October,24,BYRD,Ammonium,40,1.4100000000000001
+2024,Qtr 4,October,24,BYRD,Bicarbonates,60,230.93
+2024,Qtr 4,October,24,BYRD,EC,0.7,0.37
+2024,Qtr 4,October,24,BYRD,Est N from OM in lb,120,170
+2024,Qtr 4,October,24,BYRD,Nitrate,30,27.12
+2024,Qtr 4,October,24,BYRD,Organic Matter,7,7
+2024,Qtr 4,October,24,BYRD,ORP,80,6
+2024,Qtr 4,October,24,BYRD,pH (1:1),6.2,14.03
+2024,Qtr 4,October,24,BYRD,Soluble Salts,0.64,0.23
+2024,Qtr 4,October,24,C&H3,Active Carbon,1000,334.18
+2024,Qtr 4,October,24,C&H3,Ammonium,40,0.02
+2024,Qtr 4,October,24,C&H3,Bicarbonates,60,192.32
+2024,Qtr 4,October,24,C&H3,EC,0.7,0.27
+2024,Qtr 4,October,24,C&H3,Est N from OM in lb,120,162.60000000000002
+2024,Qtr 4,October,24,C&H3,Nitrate,30,148.33
+2024,Qtr 4,October,24,C&H3,Organic Matter,7,6.3
+2024,Qtr 4,October,24,C&H3,ORP,80,9
+2024,Qtr 4,October,24,C&H3,pH (1:1),6.2,14.129999999999999
+2024,Qtr 4,October,24,C&H3,Soluble Salts,0.64,0.17
+2024,Qtr 4,October,24,GB-40,Active Carbon,1000,150.55
+2024,Qtr 4,October,24,GB-40,Ammonium,40,0
+2024,Qtr 4,October,24,GB-40,Bicarbonates,60,90.02
+2024,Qtr 4,October,24,GB-40,EC,0.7,0.44
+2024,Qtr 4,October,24,GB-40,Est N from OM in lb,120,53.2
+2024,Qtr 4,October,24,GB-40,Nitrate,30,19.66
+2024,Qtr 4,October,24,GB-40,Organic Matter,7,1.66
+2024,Qtr 4,October,24,GB-40,ORP,80,23
+2024,Qtr 4,October,24,GB-40,pH (1:1),6.2,6.89
+2024,Qtr 4,October,24,GB-40,Soluble Salts,0.64,0.28
+2024,Qtr 4,October,24,GOODMAN,Active Carbon,1000,318.51
+2024,Qtr 4,October,24,GOODMAN,Ammonium,40,0
+2024,Qtr 4,October,24,GOODMAN,Bicarbonates,60,239.72
+2024,Qtr 4,October,24,GOODMAN,EC,0.7,0.37
+2024,Qtr 4,October,24,GOODMAN,Est N from OM in lb,120,177.8
+2024,Qtr 4,October,24,GOODMAN,Nitrate,30,29.33
+2024,Qtr 4,October,24,GOODMAN,Organic Matter,7,7.779999999999999
+2024,Qtr 4,October,24,GOODMAN,ORP,80,-44
+2024,Qtr 4,October,24,GOODMAN,pH (1:1),6.2,15.129999999999999
+2024,Qtr 4,October,24,GOODMAN,Soluble Salts,0.64,0.24
+2024,Qtr 4,October,24,JK,Active Carbon,1000,399.46999999999997
+2024,Qtr 4,October,24,JK,Ammonium,40,2.12
+2024,Qtr 4,October,24,JK,Bicarbonates,60,373.08
+2024,Qtr 4,October,24,JK,EC,0.6999999999999998,0.25
+2024,Qtr 4,October,24,JK,Est N from OM in lb,120,184.39999999999998
+2024,Qtr 4,October,24,JK,Nitrate,30,36.99
+2024,Qtr 4,October,24,JK,Organic Matter,7,6.22
+2024,Qtr 4,October,24,JK,ORP,80,16
+2024,Qtr 4,October,24,JK,pH (1:1),6.2,20.75
+2024,Qtr 4,October,24,JK,Soluble Salts,0.64,0.16
+2024,Qtr 4,October,24,MAZZ-HOME,Active Carbon,1000,262.5
+2024,Qtr 4,October,24,MAZZ-HOME,Ammonium,40,0
+2024,Qtr 4,October,24,MAZZ-HOME,Bicarbonates,60,170.74
+2024,Qtr 4,October,24,MAZZ-HOME,EC,0.7,0.29000000000000004
+2024,Qtr 4,October,24,MAZZ-HOME,Est N from OM in lb,120,141.2
+2024,Qtr 4,October,24,MAZZ-HOME,Nitrate,30,42.15
+2024,Qtr 4,October,24,MAZZ-HOME,Organic Matter,7,5.0600000000000005
+2024,Qtr 4,October,24,MAZZ-HOME,ORP,80,-1
+2024,Qtr 4,October,24,MAZZ-HOME,pH (1:1),6.2,14.46
+2024,Qtr 4,October,24,MAZZ-HOME,Soluble Salts,0.64,0.18000000000000002
+2024,Qtr 4,October,24,REYES,Active Carbon,1000,234.92000000000002
+2024,Qtr 4,October,24,REYES,Ammonium,40,0.05
+2024,Qtr 4,October,24,REYES,Bicarbonates,60,400
+2024,Qtr 4,October,24,REYES,EC,0.7,0.22999999999999998
+2024,Qtr 4,October,24,REYES,Est N from OM in lb,120,123.60000000000001
+2024,Qtr 4,October,24,REYES,Nitrate,30,19.19
+2024,Qtr 4,October,24,REYES,Organic Matter,7,4.18
+2024,Qtr 4,October,24,REYES,ORP,80,-65
+2024,Qtr 4,October,24,REYES,pH (1:1),6.2,15.379999999999999
+2024,Qtr 4,October,24,REYES,Soluble Salts,0.64,0.14
+2024,Qtr 4,October,24,TOP,Active Carbon,1000,249.87
+2024,Qtr 4,October,24,TOP,Ammonium,40,0.2
+2024,Qtr 4,October,24,TOP,Bicarbonates,60,211.52
+2024,Qtr 4,October,24,TOP,EC,0.7,0.30000000000000004
+2024,Qtr 4,October,24,TOP,Est N from OM in lb,120,183.4
+2024,Qtr 4,October,24,TOP,Nitrate,30,414.87
+2024,Qtr 4,October,24,TOP,Organic Matter,7,8.34
+2024,Qtr 4,October,24,TOP,ORP,80,-43
+2024,Qtr 4,October,24,TOP,pH (1:1),6.2,14.809999999999999
+2024,Qtr 4,October,24,TOP,Soluble Salts,0.64,0.19
+2024,Qtr 4,October,24,WFP,Active Carbon,1000,315.93
+2024,Qtr 4,October,24,WFP,Ammonium,40,0.97
+2024,Qtr 4,October,24,WFP,Bicarbonates,60,230.47000000000003
+2024,Qtr 4,October,24,WFP,EC,0.7,0.09000000000000001
+2024,Qtr 4,October,24,WFP,Est N from OM in lb,120,131.2
+2024,Qtr 4,October,24,WFP,Nitrate,30,55.19
+2024,Qtr 4,October,24,WFP,Organic Matter,7,4.56
+2024,Qtr 4,October,24,WFP,ORP,80,31
+2024,Qtr 4,October,24,WFP,pH (1:1),6.2,13.379999999999999
+2024,Qtr 4,October,24,WFP,Soluble Salts,0.64,0.05
